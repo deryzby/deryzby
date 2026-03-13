@@ -32,4 +32,4 @@ I previously worked as a Clinical Research Coordinator and currently work in the
 
 ## Connect With Me
 - ORCID: 0000-0001-6767-3558
-- LinkedIn: www.linkedin.com/in/deryaozbaysen
+- LinkedIn: [deryaozbaysen](https://www.linkedin.com/in/deryaozbaysen)
