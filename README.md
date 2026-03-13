@@ -28,7 +28,8 @@ I previously worked as a Clinical Research Coordinator and currently work in the
 
 ## Featured Projects
 - **BenimGenomum-Giardia** – genome assembly and evaluation workflow
-- Additional bioinformatics and data analysis projects will be added here
+- **Breast_Cancer_Detection** – machine learning practice project related to classification analysis
+- More bioinformatics and data analysis projects coming soon
 
 ## Connect With Me
 - ORCID: 0000-0001-6767-3558
